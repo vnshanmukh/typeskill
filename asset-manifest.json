@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/typeskill/static/css/main.47a6069e.chunk.css",
+    "main.js": "/typeskill/static/js/main.c4af4811.chunk.js",
+    "main.js.map": "/typeskill/static/js/main.c4af4811.chunk.js.map",
+    "runtime-main.js": "/typeskill/static/js/runtime-main.1c1239c9.js",
+    "runtime-main.js.map": "/typeskill/static/js/runtime-main.1c1239c9.js.map",
+    "static/js/2.3357a689.chunk.js": "/typeskill/static/js/2.3357a689.chunk.js",
+    "static/js/2.3357a689.chunk.js.map": "/typeskill/static/js/2.3357a689.chunk.js.map",
+    "index.html": "/typeskill/index.html",
+    "static/css/main.47a6069e.chunk.css.map": "/typeskill/static/css/main.47a6069e.chunk.css.map",
+    "static/js/2.3357a689.chunk.js.LICENSE.txt": "/typeskill/static/js/2.3357a689.chunk.js.LICENSE.txt",
+    "static/media/logo.904ac8fd.png": "/typeskill/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c1239c9.js",
+    "static/js/2.3357a689.chunk.js",
+    "static/css/main.47a6069e.chunk.css",
+    "static/js/main.c4af4811.chunk.js"
+  ]
+}
