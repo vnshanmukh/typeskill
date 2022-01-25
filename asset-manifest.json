@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/typeskill/static/css/main.47a6069e.chunk.css",
-    "main.js": "/typeskill/static/js/main.0ebd7fdc.chunk.js",
-    "main.js.map": "/typeskill/static/js/main.0ebd7fdc.chunk.js.map",
+    "main.js": "/typeskill/static/js/main.c6c4aa91.chunk.js",
+    "main.js.map": "/typeskill/static/js/main.c6c4aa91.chunk.js.map",
     "runtime-main.js": "/typeskill/static/js/runtime-main.a9aff704.js",
     "runtime-main.js.map": "/typeskill/static/js/runtime-main.a9aff704.js.map",
     "static/js/2.1bd05d4b.chunk.js": "/typeskill/static/js/2.1bd05d4b.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a9aff704.js",
     "static/js/2.1bd05d4b.chunk.js",
     "static/css/main.47a6069e.chunk.css",
-    "static/js/main.0ebd7fdc.chunk.js"
+    "static/js/main.c6c4aa91.chunk.js"
   ]
 }
