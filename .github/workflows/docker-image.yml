@@ -30,8 +30,8 @@ jobs:
         uses: docker/metadata-action@v3
         with:
           images: |
-            my-docker-hub-namespace/my-docker-hub-repository
-            ghcr.io/${{ github.repository }}
+            vnhsnamukh/typeskill
+            ghcr.io/vnshanmukh/${{ github.repository }}
       
       - name: Build and push Docker images
         uses: docker/build-push-action@v2
